@@ -11,4 +11,4 @@ If you know about me, you can check my [personal website](https://celsofabri.git
 
 #### :mailbox: Contact
 
-Or you can contact me in [WhatsApp](https://api.whatsapp.com/send?phone=5541991222951), [Twitter](https://twitter.com/celsofabri), [Instagram](https://instagram.com/celso.cwb), [Facebook](https://facebook.com/celsofabrijr) or by email [celso.fabri@gmail.com](celso.fabri@gmail.com)
+Or you can contact me in [WhatsApp](https://api.whatsapp.com/send?phone=5541991222951), [Twitter](https://twitter.com/celsofabri), [Instagram](https://instagram.com/celso.cwb), [Facebook](https://facebook.com/celsofabrijr) or by email _celso.fabri@gmail.com_.
