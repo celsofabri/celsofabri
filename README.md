@@ -7,7 +7,7 @@ Currently I'm work at [Delivery Center](https://www.deliverycenter.com/) as Fron
 
 I'm graduate in the course of **Production Multimedia (Web Design)** by **Opet University**. I have visual skills as UX/UI Designer, but my focus is front-end development. Currently, I'm work with ReactJS and learning a bit about VueJS and Elixir.
 
-If you wanna know more about me, you can check my [personal website](https://celsofabri.com) clicking [here](https://celsofabri.github.io) :)
+If you wanna know more about me, you can check my [personal website](https://celsofabri.com) clicking [here](https://celsofabri.com) :)
 
 #### :mailbox: Contact
 
