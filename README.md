@@ -3,7 +3,7 @@
 Hello, I'm Front-End Developer! Welcome to my profile :space_invader:
 
 #### :fox_face: About Me
-Currently I'm work at [Delivery Much](https://deliverymuch.com.br/) as Front-End Developer, but I already worked in other companies such as [Delivery Center](https://www.deliverycenter.com/), [ateliware](https://www.ateliware.com/), [Bcredi](https://bcredi.com.br), [MadeiraMadeira](https://www.madeiramadeira.com.br/), [EBANX](https://ebanx.com/br), [Snowman Labs](https://snowmanlabs.com.br), [IMAM](https://imam.ag), [WX](https://agenciawx.com.br) and [Andaraki](https://andaraki.com.br). 
+Currently, I'm work at [Delivery Much](https://deliverymuch.com.br/) as a Front-End Developer, but I already worked in other companies such as [Delivery Center](https://www.deliverycenter.com/), [ateliware](https://www.ateliware.com/), [Bcredi](https://bcredi.com.br), [MadeiraMadeira](https://www.madeiramadeira.com.br/), [EBANX](https://ebanx.com/br), [Snowman Labs](https://snowmanlabs.com.br), [IMAM](https://imam.ag), [WX](https://agenciawx.com.br) and [Andaraki](https://andaraki.com.br). 
 
 I'm graduate in the course of **Production Multimedia (Web Design)** by **Opet University**. I have visual skills as UX/UI Designer, but my focus is front-end development. Currently, I'm work with ReactJS and learning a bit about VueJS and Elixir.
 
