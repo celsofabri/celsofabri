@@ -1,6 +1,6 @@
 # Celso Fabri Junior
 
-Hello, I'm Front-End Developer! Welcome to my profile :space_invader:
+Hello, I'm a Front-End Developer! Welcome to my profile :space_invader:
 
 #### :fox_face: About Me
 Currently, I'm work at [iFood](https://ifood.com.br) as a Front-End Developer, but I already worked in other companies such as [Delivery Much](https://deliverymuch.com.br/), [Delivery Center](https://www.deliverycenter.com/), [ateliware](https://www.ateliware.com/), [Bcredi](https://bcredi.com.br), [MadeiraMadeira](https://www.madeiramadeira.com.br/), [EBANX](https://ebanx.com/br), [Snowman Labs](https://snowmanlabs.com.br), [IMAM](https://imam.ag), [WX](https://agenciawx.com.br) and [Andaraki](https://andaraki.com.br). 
