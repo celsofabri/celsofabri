@@ -11,4 +11,4 @@ If you wanna know more about me, you can check my [personal website](https://cel
 
 #### :mailbox: Contact
 
-Or you can contact me in [LinkedIn](https://www.linkedin.com/in/celsofabri/), [Twitter](https://twitter.com/celsofabri), [Instagram](https://instagram.com/celso.cwb), [Facebook](https://facebook.com/celsofabrijr), [WhatsApp](https://api.whatsapp.com/send?phone=5541991222951) or by email celso.fabri@gmail.com.
+Or you can contact me in [LinkedIn](https://www.linkedin.com/in/celsofabri/), or by email celso.fabri@gmail.com.
